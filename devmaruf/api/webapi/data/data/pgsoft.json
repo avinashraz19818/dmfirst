@@ -1,0 +1,453 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+      "gameID": "c30df1a0b3ab2efc274e285f8b480044",
+      "gameNameEn": "Blood Suckers II",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/bloodsuckers2000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "0d17d70ff5a3f5c2734420bf89a00e65",
+      "gameNameEn": "The Wish Master",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/wishmasteroct000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "e347b4d43cf08c43802bd23f99ce0755",
+      "gameNameEn": "Funk Master",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/funkmaster000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "00f91b6be91f8bdbaa3f894527c48a3a",
+      "gameNameEn": "Jungle Spirit: Call of the Wild",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/junglespirit0000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "0cfc52b33775e83d08629e37b8636568",
+      "gameNameEn": "Piggy Riches",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/piggyriches00000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "8627141cc54999589d877564a089db91",
+      "gameNameEn": "Starburst",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/starburst0000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "4d41bff16d903303cc9fd69485023502",
+      "gameNameEn": "Football: Champions Cup",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/football00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "1e9240eecdcbd7a5adcc135f58f5b648",
+      "gameNameEn": "Ozzy Osbourne Video Slots",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/ozzy000000000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "5c9768f69c6bb7244effde4dcffb38c9",
+      "gameNameEn": "Mythic Maiden",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/mythicmaiden0000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "006d64d4f3685e489955576b17fa8ccf",
+      "gameNameEn": "Barbarian Fury",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/barbarianfury000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "f87a873760e8f23165b0d184bdf6a2ed",
+      "gameNameEn": "Infectious 5 xWays",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/infectious500000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "58817c1ce7f65322581e1be2aeadadee",
+      "gameNameEn": "NetEnt European Roulette",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/europroulette3ne.png",
+      "vendorId": 17,
+      "vendorCode": "pgsoft",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "a83230f3acade57c2b27e77f8f9002b1",
+      "gameNameEn": "Turn Your Fortune",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/turnyourfortune0.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "23fa591e8d844c65f60c188778f8303a",
+      "gameNameEn": "NetEnt American Roulette",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/ameriroulette3ne.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "234b6bf7260c93d5bc638b60d6b8511b",
+      "gameNameEn": "Millionaire",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/millionairev5000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "b9ddca2117ce98d67017e80d590e9ca6",
+      "gameNameEn": "Golden Genie & the Walking Wilds",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/goldengenie00000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "408b891b0ed802ef746436c00c9a4d0c",
+      "gameNameEn": "Secrets of Christmas",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/secretsofchristm.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "3eb6fd2feadac3ffccf8c32b9e5e1b15",
+      "gameNameEn": "Santa vs Rudolf",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/santavsrudolf000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "2fc471468fe5b96142575e96a1037696",
+      "gameNameEn": "Fairytale Legends: Hansel and Gretel",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/fairyhansel00000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "e683d35e4465d919f84cbf723a9bf3ee",
+      "gameNameEn": "Elements: The Awakening",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/elements00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "1127a72ade55188afa152a28f6510b45",
+      "gameNameEn": "Let It Burn",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/letitburnr96f100.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "290a5201aa0d3eb4808aa6344bb50166",
+      "gameNameEn": "Space Wars 2",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/spacewars2000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "d46d1f15657292bc5906e41ff688e4f3",
+      "gameNameEn": "Misery Mining",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/miserymining0000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "e2f8b65093f956dc0fbcb7664cb4c8e6",
+      "gameNameEn": "Fruit Case",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/fruitsne00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "1054032fd3e6a8f010543070041e677e",
+      "gameNameEn": "Dark King: Forbidden Riches",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/darkking00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "6197ed89536525466ef815de680ef51f",
+      "gameNameEn": "San Quentin xWays",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/sanquentin000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "5e6dc1d79d893a219f9cf2d0f57484ef",
+      "gameNameEn": "Punk Rocker",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/punkrocker000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "4898e181204b0068b1e6b5ffbcaef857",
+      "gameNameEn": "Book Of Shadows",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/bookofshadows000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "d220469f1e1cb33513a9e018433e4b06",
+      "gameNameEn": "Spellcast",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/wizards000000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "c30df1a0b3ab2efc274e285f8b480044",
+      "gameNameEn": "Blood Suckers II",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/bloodsuckers2000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "0d17d70ff5a3f5c2734420bf89a00e65",
+      "gameNameEn": "The Wish Master",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/wishmasteroct000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "e347b4d43cf08c43802bd23f99ce0755",
+      "gameNameEn": "Funk Master",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/funkmaster000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "00f91b6be91f8bdbaa3f894527c48a3a",
+      "gameNameEn": "Jungle Spirit: Call of the Wild",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/junglespirit0000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "0cfc52b33775e83d08629e37b8636568",
+      "gameNameEn": "Piggy Riches",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/piggyriches00000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "8627141cc54999589d877564a089db91",
+      "gameNameEn": "Starburst",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/starburst0000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "4d41bff16d903303cc9fd69485023502",
+      "gameNameEn": "Football: Champions Cup",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/football00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "1e9240eecdcbd7a5adcc135f58f5b648",
+      "gameNameEn": "Ozzy Osbourne Video Slots",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/ozzy000000000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "5c9768f69c6bb7244effde4dcffb38c9",
+      "gameNameEn": "Mythic Maiden",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/mythicmaiden0000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "006d64d4f3685e489955576b17fa8ccf",
+      "gameNameEn": "Barbarian Fury",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/barbarianfury000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "f87a873760e8f23165b0d184bdf6a2ed",
+      "gameNameEn": "Infectious 5 xWays",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/infectious500000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "5ce4b9f10eab287c382ddccdb727b6d0",
+      "gameNameEn": "Das xBoot",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/dasxboot00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "6aa6dbd4f53999caf7095c04508731aa",
+      "gameNameEn": "Lights",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/fireflies0000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "c9b9c335e7f963766c53b5601d9b03ec",
+      "gameNameEn": "Jacks or Better Double Up",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/jacksmultihandn1.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "01c8cc5d78cbfeb625874ce79b427f1a",
+      "gameNameEn": "Fairytale Legends: Red Riding Hood",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/fairyred00000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "b6cb9edc1e81363e24f4054c46a99772",
+      "gameNameEn": "The Rave",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/therave000000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "012fcd73fc023670b9748dc4a82b8cde",
+      "gameNameEn": "Wolf Cub",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/wolfcub000000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "594f9b3356584ee8f8e12a68cd94ca0b",
+      "gameNameEn": "Bonanza",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/bonanzav60000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "3cb0a67b338d50b133d4f37fe0482c8f",
+      "gameNameEn": "Asgardian Stones",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/asgardianstones0.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+    {
+      "gameID": "59ec2b18e5af9f0c548ca8b51dec40ac",
+      "gameNameEn": "Guns N' Roses Video Slots",
+      "img": "https://ossimg.91admin123admin.com/91club/gamelogo/EVO_Electronic/gunsnroses000000.png",
+      "vendorId": 17,
+      "vendorCode": "evoplay-asia",
+      "imgUrl2": null,
+      "customGameType": 0
+    },
+        {
+            "gameNameEn": "Spirited Wonders",
+            "gameCode": "9e795df6bdf093a144e714fd35afbb7a",
+            "vendorCode": "pgsoft",
+            "img": "https://imagensfivers.com/Games/Pgsoft/spirit-wonder.webp",
+            "customGameType": 0
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+                {
+            "gameID": "c433923addc200f1c65ed3946003e463",
+            "gameNameEn": "Mahjong is here",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Mahjong3.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "ec253493644df4a1af5ee39834f92bee",
+            "gameNameEn": "Dragon God Mahjong",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MajiongWays4.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "472fc11f004fe0996a9f8c4ad0be365f",
+            "gameNameEn": "Chilli Blaze",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MexicanChilli.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "872155586cf761e80df010fd38058b2c",
+            "gameNameEn": "Old Miner's Gold",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Miner.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "40109eee3d546e0a3a1bbe96bacd7f3a",
+            "gameNameEn": "Fortune Tree",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MoneyTree.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2e66fd182be145a86ab77c634a659cbe",
+            "gameNameEn": "Moonlight Wolves ",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MoonlightWolves.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2f09791f9fc7655410414e1031872a8d",
+            "gameNameEn": "Penalty Shootout",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-PenaltyShootout.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "61a07f3c3a80f57b5ba2f5dee58de3ad",
+            "gameNameEn": "Phoenix Legend",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Phoenix.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "33827741bc1f829ca75d708f01291e7f",
+            "gameNameEn": "Tree of Fortune",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-ProsperousTree.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "519940e9de34471301d505e0c3e27bc3",
+            "gameNameEn": "Pussy Castle",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-PussyCastle.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9e04f337628c80c1a2076ea3ba5ff435",
+            "gameNameEn": "Rising Medusa",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-RisingMedusa.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d98e5c6301edbcc6f1cefb96c55ff88a",
+            "gameNameEn": "Samba Mania",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Samba.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1cb340b490fe1893b691ce6f3d343ed3",
+            "gameNameEn": "Regal 777",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Super777.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "cf850797c069431ff5a0d1c512083c19",
+            "gameNameEn": "Temple of Zeus",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-TempleOfZeus.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "778852dd4e78cadbe8a0489e6a10ae05",
+            "gameNameEn": "Dragons",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-ThreeDragons.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "ba86d26f99b3c4612c99900220f51b13",
+            "gameNameEn": "Tiger Wild 3D",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-TigerWild.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f527e42c6b7b1084399040df31e4f845",
+            "gameNameEn": "Piggy Bank",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-TycoonPig.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "24714908d60d6fa79d13ab3f49fdcaf6",
+            "gameNameEn": "Vegas Journey",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-VegasJourney.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f6668123b9128123a67b06cab274fe15",
+            "gameNameEn": "Vegas Tycoon",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-VegasTycoon.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1b9cf5e44f1041ab1ff69e0eabece2a5",
+            "gameNameEn": "West World",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-west-cowboy.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9cbcb3079913faed43b53e679db12054",
+            "gameNameEn": "Western Duel",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-WesternDuel.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b2ccd5ff78a66d4ed18b396ccb932701",
+            "gameNameEn": "Witchy Riches",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-WitchyRiches.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c647432be835c78bd5a797a6a4f341c1",
+            "gameNameEn": "Wu Song",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-WuSong.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fab8529f51cac472de6a637704b6f85c",
+            "gameNameEn": "Monkey King",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Xiyouji.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "165ea500252e86e516e04b5c60d5e768",
+            "gameNameEn": "God Of Wealth",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/SlotsCaiShen.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "747e2afa874d40a1b517120de3d46ba8",
+            "gameNameEn": "Ghost",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/SlotsGhostBride.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "62bdd197cbcbe5bea67b00744b634d8f",
+            "gameNameEn": "Sherlock",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/SlotsShyLock.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "43d5849550520632db69539717d42393",
+            "gameNameEn": "Imperial city",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/SlotsYearsEve.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "366dd1f2071847e620e23567e0fbac10",
+            "gameNameEn": "12 zodiac",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slotZodiac.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d4895b401ffba4e8e6b42c109db7849b",
+            "gameNameEn": "Western Gold",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/MG/SMG_westernGold.png",
+            "vendorId": 4,
+            "vendorCode": "microgaming",
+            "imgUrl2": null,
+            "customGameType": 0
+        }
+    ]
+}

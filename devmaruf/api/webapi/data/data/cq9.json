@@ -1,0 +1,140 @@
+{
+  "gameCustomTypeLists": [],
+  "gameLists": [
+   {
+            "gameID": "5db228344e2a69073981507adcd13718",
+            "gameNameEn": "Hot Devil",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Demoness.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d7c1d4df446af83339e8f5b41d54928a",
+            "gameNameEn": "Dragon's Rivalry",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-DragonsRivalry.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "97aad25a816bfa3cd7ba10166c6417ff",
+            "gameNameEn": "Egypt Jewel Hunt",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Egypt-jewel.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c22f3aa1524ff13f1b2d0b85d139069c",
+            "gameNameEn": "Fortune Wild",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-FortuneWild.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "465db13ea441c620a1d8e186c129c836",
+            "gameNameEn": "Fortune",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-FuLuShou.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1b9b09595e83a6acfcda32321673ad94",
+            "gameNameEn": "Lucky elephant",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Ganesha.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9124408508309fa92ce05afc1616fe19",
+            "gameNameEn": "Riches of India",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-India.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "330d984535d95d3d8bcdd680a0d14343",
+            "gameNameEn": "Jurassic World",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-JurassicPark_20250210163540867.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "830594e296506000e87c43a12fb634c8",
+            "gameNameEn": "Jurassic Park",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-JurassicParknew_20250210163551218.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "0672f4d6f0053d6889ed8f0eb3b88ef7",
+            "gameNameEn": "Fruit chain",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-LockMary.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c433923addc200f1c65ed3946003e463",
+            "gameNameEn": "Mahjong is here",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Mahjong3.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "ec253493644df4a1af5ee39834f92bee",
+            "gameNameEn": "Dragon God Mahjong",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MajiongWays4.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "472fc11f004fe0996a9f8c4ad0be365f",
+            "gameNameEn": "Chilli Blaze",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-MexicanChilli.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "872155586cf761e80df010fd38058b2c",
+            "gameNameEn": "Old Miner's Gold",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/G9/slots-Miner.png",
+            "vendorId": 41,
+            "vendorCode": "G9",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+    {
+      "gameID": "a36b6a69ffa118773a5e828bcc74dcf8",
+      "gameNameEn": "5 God beasts",
+      "img": "https://ossimg.yuk87k786d.com/sikkim/gamelogo/CQ9/117.png",
+      "vendorId": 2,
+      "vendorCode": "cq9",
+      "imgUrl2": null,
+      "customGameType": 0
+    }
+  ]
+}

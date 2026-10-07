@@ -1,0 +1,4 @@
+<?php // Updated by System - 2026-05-03 21:58:31 ?>
+<?php // Updated by System - 2026-05-03 21:58:14 ?>
+<?php
+ goto sipx4; P9K9q: $conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME); goto MkJHZ; YTVCd: if (!isset($_GET["\165\163\145\x72\111\x64"])) { handleError("\115\x69\x73\163\x69\156\x67\x20\165\163\x65\162\111\144\x20\x70\x61\162\x61\x6d\145\164\x65\162"); } goto P9K9q; VgTps: $balance = getUserBalance($conn, $userId); goto F1jVG; MkJHZ: $userId = $_GET["\165\x73\x65\x72\111\x64"]; goto VgTps; vQcdI: $conn->close(); goto TZ3rs; F1jVG: if ($balance !== null) { echo json_encode(array("\142\141\x6c\x61\156\x63\x65" => $balance)); } else { handleError("\x55\x73\x65\162\x20\x6e\x6f\164\40\x66\x6f\x75\x6e\144"); } goto vQcdI; sipx4: require_once "\x66\165\156\x63\x74\151\157\156\163\56\160\150\160"; goto YTVCd; TZ3rs: ?>

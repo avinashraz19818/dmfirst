@@ -1,0 +1,79 @@
+{
+    "gameCustomTypeLists":  [
+
+                            ],
+    "gameLists":  [
+                      {
+                          "gameNameEn":  "Aviator Extra Bet",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/10040/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "10040"
+                      },
+                      {
+                          "gameNameEn":  "Dice",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/477/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "477"
+                      },
+                      {
+                          "gameNameEn":  "Dragon Tiger - Joker Bonus",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/28/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "28"
+                      },
+                      {
+                          "gameNameEn":  "Lucky Color Game",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/395/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "395"
+                      },
+                      {
+                          "gameNameEn":  "Mines",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/307/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "307"
+                      },
+                      {
+                          "gameNameEn":  "Mines2",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/819/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "819"
+                      },
+                      {
+                          "gameNameEn":  "Mole Crash",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/744/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "744"
+                      },
+                      {
+                          "gameNameEn":  "Plinko",
+                          "customGameType":  0,
+                          "vendorCode":  "JDB",
+                          "img":  "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/927/public",
+                          "vendorId":  6,
+                          "imgUrl2":  null,
+                          "gameID":  "927"
+                      }
+                  ]
+}
